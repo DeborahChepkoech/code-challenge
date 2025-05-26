@@ -1,0 +1,36 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+*.db
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Test coverage reports
+htmlcov/
+coverage.xml
+*.cover
+
+# pytest cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variable files
+.env
